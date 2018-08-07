@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -39,7 +39,7 @@ header.startup h1 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .btn-xl {
@@ -51,11 +51,9 @@ header.startup h1 {
   border-color: #F05F44; }
 
 .btn-primary:hover {
-  background-color:  #ee4b08;
+  background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
 }
   
-
-
